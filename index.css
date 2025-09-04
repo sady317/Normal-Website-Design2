@@ -28,10 +28,10 @@ body{
     h1 {
         background-color: #007CED;
         color: white;
-        font-size: 36px;
-        width: 30px;
+        font-size: 40px;
+        width: 48px;
         text-align: center;
-        height: 40px;
+        /* height: 40px; */
         padding: 10px;
         border-radius: 50%;
     }
